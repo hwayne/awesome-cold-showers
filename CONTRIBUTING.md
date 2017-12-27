@@ -1,10 +1,11 @@
+
 # Contribution Guidelines
 
 ## Adding to this List
 
 All submissions should have the following format:
 
-* **Title:** [Title of thing, with link to thing](https://www.youtube.com/watch?v=JWOY6uu3VUo)
+* **Title:** [Title of thing, with link to thing](https://www.youtube.com/watch?v=JWOY6uu3VUo) (PDF/Video/etc tag, optional)
 
 * **Hype:** "The hyped claim or topic being addressed. You can be informal here, but don't be snide."
 
@@ -12,7 +13,21 @@ All submissions should have the following format:
 
 * **Caveats:** Any limitations to the thing. For example, it's old, it doesn't address a specific part of a claim, it has threats to validity, etc.
 
-* **Notes:** Anything else you think is important to include.
+* **Notes:** Anything else you think is important to include. (Optional)
+
+If any of this seems unclear to you, check out the existing list for examples of what it should look like. Here's a copyable template without formatting:
+
+```
+* **Title:** 
+
+* **Hype:** 
+
+* **Shower:** 
+
+* **Caveats:** 
+
+* **Notes:** 
+```
 
 If any of this seems unclear to you, check out the existing list for examples of what it should look like.
 
