@@ -40,6 +40,16 @@ It's great when people get excited about things, but sometimes they get a little
 
 * **Notes:** Updates with new benchmarks and frameworks once a year. All implementations are public and you can improve them with a PR. 
 
+#### [Agile Methods: The Good, the Hype and the Ugly](https://www.youtube.com/watch?v=ffkIQrq-m34) (Video)
+
+* **Hype:** "We should develop software using Agile."
+
+* **Shower:** Review of all the different styles of Agile and how some of the practices (particularly replacing requirements with user stories and the lack of proper specification) are harmful in the long run.
+
+* **Caveats:** While Meyer calls out some problems, overall he's very positive about Agile and recommends it as a good (but imperfect) methodology.
+
+* **Notes:** Starts at [3:30](https://youtu.be/ffkIQrq-m34?t=3m30s). There's a [followup video](https://www.youtube.com/watch?v=Q_9k6ym5BZU) where he answers audience questions. 
+
 ## Plug
 
 You can find my general ravings on my [website](https://hillelwayne.com) or [twitter](https://twitter.com/Hillelogram). 
