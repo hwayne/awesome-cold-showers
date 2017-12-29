@@ -1,6 +1,6 @@
 # Awesome Cold Showers
 
-It's great when people get excited about things, but sometimes they get a little _too_ excited. This an awesome (rigorous and respectful) and curated (I read every suggestion and make judgement calls) list of cold showers on overhyped topics. Feel free to submit your favorites!
+It's great when people get excited about things, but sometimes they get a little _too_ excited. This an awesome (rigorous and respectful) and curated (I read every suggestion and make judgement calls) list of cold showers on overhyped topics. This does **not** mean the enthusiasm is bad or wrong: we're just reminding people to stay grounded. Feel free to submit your favorites!
 
 ####  [Verification Techniques](http://www.cypherpunks.to/~peter/04_verif_techniques.pdf) (PDF)
 
