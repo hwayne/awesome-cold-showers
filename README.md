@@ -1,3 +1,5 @@
+
+
 # Awesome Cold Showers
 
 It's great when people get excited about things, but sometimes they get a little _too_ excited. This an awesome (rigorous and respectful) and curated (I read every suggestion and make judgement calls) list of cold showers on overhyped topics. This does **not** mean the enthusiasm is bad or wrong: we're just reminding people to stay grounded. Feel free to submit your favorites!
@@ -50,6 +52,15 @@ It's great when people get excited about things, but sometimes they get a little
 
 * **Notes:** Starts at [3:30](https://youtu.be/ffkIQrq-m34?t=3m30s). There's a [followup video](https://www.youtube.com/watch?v=Q_9k6ym5BZU) where he answers audience questions. 
 
+#### [An Empirical Study on the Correctness of Formally Verified Systems](https://homes.cs.washington.edu/~pfonseca/papers/eurosys2017-dsbugs.pdf) (PDF)
+
+* **Hype:** "If I formally verify my code, I don't need to test it!"
+
+* **Shower:** Researchers looked at three formally verified systems, and found critical correctness bugs in all three. The bugs were from "a wide range of mismatched assumptions" and caused servers to crash or produce wrong data.
+
+* **Caveats:** Most bugs were at the system boundaries; none were found in the implemented protocols. Formally verified systems, while not perfect, were considerably less buggy than unverified systems.
+
+* **Notes:**  Systems were verified with Coq and Z3. Further discussion at [The Morning Paper](https://blog.acolyer.org/2017/05/29/an-empirical-study-on-the-correctness-of-formally-verified-distributed-systems/).
 ## Plug
 
 You can find my general ravings on my [website](https://hillelwayne.com) or [twitter](https://twitter.com/Hillelogram). 
