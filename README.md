@@ -61,6 +61,17 @@ It's great when people get excited about things, but sometimes they get a little
 * **Caveats:** Most bugs were at the system boundaries; none were found in the implemented protocols. Formally verified systems, while not perfect, were considerably less buggy than unverified systems.
 
 * **Notes:**  Systems were verified with Coq and Z3. Further discussion at [The Morning Paper](https://blog.acolyer.org/2017/05/29/an-empirical-study-on-the-correctness-of-formally-verified-distributed-systems/).
+
+#### [Fixing Faults in C and Java Source Code: Abbreviated vs. Full-word Identiﬁer Names](http://www2.unibas.it/gscanniello/Giuseppe_Scanniello%40unibas/Home_files/TOSEM.pdf) (PDF)
+
+* **Hype:** "Identifiers should be self-documenting! Use full names, not abbreviations." 
+
+* **Shower:** Researchers had programmers fix bugs in a codebase, either with all of the identifiers were abbreviated, or where all of the identifiers were full-words. They found no difference in time taken or quality of debugging.
+
+* **Caveats:** Only applies to fixing bugs. Otherwise watertight. This is honestly one of the most rigorous and comprehensive papers I've ever read. 
+
+* **Notes:** Includes ethnography on how programmers debug abbreviated code. Link is to the author preprint. 
+
 ## Plug
 
 You can find my general ravings on my [website](https://hillelwayne.com) or [twitter](https://twitter.com/Hillelogram). 
