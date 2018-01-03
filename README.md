@@ -72,6 +72,14 @@ It's great when people get excited about things, but sometimes they get a little
 
 * **Notes:** Includes ethnography on how programmers debug abbreviated code. Link is to the author preprint. 
 
+#### [Microservices - Please, don't](http://basho.com/posts/technical/microservices-please-dont/)
+
+* **Hype:** "Microservices! Microservices!"
+
+* **Shower:** Presents five fallacies of "why microservices solve problems monoliths have" and shows how either monoliths don't actually have those problems or that microservices make the problem even worse. 
+
+* **Caveats:** Abstract arguments and experience, no case studies or examples.
+
 ## Plug
 
 You can find my general ravings on my [website](https://hillelwayne.com) or [twitter](https://twitter.com/Hillelogram). 
