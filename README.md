@@ -80,6 +80,26 @@ It's great when people get excited about things, but sometimes they get a little
 
 * **Caveats:** Abstract arguments and experience, no case studies or examples.
 
+#### [VM Warmup Blows Hot and Cold](https://arxiv.org/abs/1602.00602)
+
+* **Hype**: Your favourite programming language has been updated. The new
+  version makes impressive performance improvement claims.
+
+* **Shower**: Benchmarking modern programming languages under near-ideal
+  circumstances, just for longer than before, suggests that we have not been
+  benchmarking language implementations as accurately as we might wish. Many
+  benchmarks slow down over time. Some never stabilise. Many benchmarking
+  experiments will not be repeatable due to non-determinism. Warmup time is
+  important, but is usually either ignored, or reported inaccurately.
+
+* **Caveats**: Only evaluates the x86_64 architecture, and for only two
+  operating systems (Linux and OpenBSD). Experiment conducted in 2017 (prior to
+  meltdown patching). Evaluates mainly JITted language implementations
+  (although C benchmarks were included).
+
+ * **Notes**: The experiment and the benchmark runner are published under an
+   open source license. [Start here](https://github.com/softdevteam/warmup_experiment).
+
 ## Plug
 
 You can find my general ravings on my [website](https://hillelwayne.com) or [twitter](https://twitter.com/Hillelogram). 
