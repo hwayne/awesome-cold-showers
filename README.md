@@ -100,6 +100,14 @@ It's great when people get excited about things, but sometimes they get a little
  * **Notes**: The experiment and the benchmark runner are published under an
    open source license. [Start here](https://github.com/softdevteam/warmup_experiment).
 
+#### [Scaling SQLite to 4M QPS on a Single Server](https://blog.expensify.com/2018/01/08/scaling-sqlite-to-4m-qps-on-a-single-server/)
+
+* **Hype:** "Scaling out is better than scaling up. Cloud is more scalable than bare metal."
+
+* **Shower:** Expensify found that running a single bare-metal server was both faster and cheaper than using an x1e.32xlarge EC2 instance. By using one server, they could avoid sharding their data.
+
+* **Caveats:** Does not cover if scaling out bare metal has the same advantages over scaling out EC2 (assuming you can affording sharding). Can't really compare how much cheaper the bare metal is, because they don't list the cost. I'm guessing their servers are 100k each? No basis for that guess though.
+
 ## Plug
 
 You can find my general ravings on my [website](https://hillelwayne.com) or [twitter](https://twitter.com/Hillelogram). 
