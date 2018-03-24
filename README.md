@@ -38,9 +38,9 @@ It's great when people get excited about things, but sometimes they get a little
 
 * **Shower:** Actual hard data of various combinations of solutions under various tasks.
 
-* **Caveats:** Raw data you have to interpret yourself. Does not provide a complete dump of the raw data for your own analysis.
+* **Caveats:** Raw data you have to interpret yourself. ~~Does not provide a complete dump of the raw data for your own analysis.~~ Raw data can now be found [here](http://tfb-logs.techempower.com/)
 
-* **Notes:** Updates with new benchmarks and frameworks once a year. All implementations are public and you can improve them with a PR. 
+* **Notes:** [Continually updating](https://tfb-status.techempower.com/) with new benchmarks. All implementations are public and you can improve them with a PR. 
 
 #### [Agile Methods: The Good, the Hype and the Ugly](https://www.youtube.com/watch?v=ffkIQrq-m34) (Video)
 
