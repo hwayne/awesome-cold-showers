@@ -108,13 +108,13 @@ It's great when people get excited about things, but sometimes they get a little
 
 * **Caveats:** Does not cover if scaling out bare metal has the same advantages over scaling out EC2 (assuming you can affording sharding). Can't really compare how much cheaper the bare metal is, because they don't list the cost. I'm guessing their servers are 100k each? No basis for that guess though.
 
-#### [Go's Goroutines (or Co-routines) are Better than Traditional Concurrency Models. (PDF)](https://songlh.github.io/paper/go-study.pdf)
+#### [Understanding Real-World Concurrency Bugs in Go (PDF)](https://songlh.github.io/paper/go-study.pdf)
 
 * **Hype:** Compared to other languages, Go's concurrency system of goroutines and channels is easier to understand, easier to use, and is less prone to bugs and memory leaks.
 
 * **Shower:** According to an empirical study by Tu, _et al_, there are plenty of concurrency-related bugs related to the difficulty in understanding and following the concurrency features and patterns provided by Go.
 
-* **Caveats:** This study is specific to Go. Though other languages provide similar facilities, they are not covered in this article.
+* **Caveats:** This study is specific to Go. Though other languages provide similar facilities, they are not covered in this article. Also, the types of bugs seen with channels and shared memory are different. Channels lead to more blocking bugs (deadlocks, dangling channels) while shared-memory lead to more nonblocking bugs (race conditions, dirty reads).
 
 * **Notes:** "We studied six popular Go software including Docker, Kubernetes, and gRPC. We analyzed 171 concurrency bugs in total, with more than half of them caused by non-traditional, Go-specific problems"
 
