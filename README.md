@@ -12,7 +12,7 @@ It's great when people get excited about things, but sometimes they get a little
 
 * **Caveats:** Written in 2000 and doesn't cover modern tools/techniques, such as TLA+ or dependent typing.
 
-* **Notes:** Part of [Peter Gutmann](https://www.cs.auckland.ac.nz/~pgut001/)'s thesis, "The Design and Verification of a Cryptographic Security Architecture".
+* **Notes:** Part of [Peter Gutmann](https://www.cs.auckland.ac.nz/~pgut001/)'s thesis, "The Design and Verification of a Cryptographic Security Architecture". The whole thesis can be found [here](https://archive.org/details/springer_10.1007-b97264/mode/2up).
 
 #### [Static vs Dynamic Typing: a literature review](https://danluu.com/empirical-pl/)
 
