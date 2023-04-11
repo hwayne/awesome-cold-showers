@@ -72,6 +72,29 @@ It's great when people get excited about things, but sometimes they get a little
 
 * **Notes:** Includes ethnography on how programmers debug abbreviated code. Link is to the author preprint. 
 
+#### [An Eye Tracking Study on camelCase and under_score Identifier Styles (PDF)](http://www.cs.kent.edu/~jmaletic/papers/ICPC2010-CamelCaseUnderScoreClouds.pdf)
+
+* **Hype:** camelCase is easier to read than under_score. So it is a best practice to
+use camelCase in variable names, function names, and other identifiers.
+
+* **Shower:** Several research papers have been done. But when eye-tracking software was
+used to test the claim, two conclusions emerged: (1) developers are equally accurate
+regardless of style, but (2) the under_score style can be processed faster and easier.
+
+* **Caveats:** The study's sample size was small (15 people), and "Subjects were
+historically trained mostly in the underscore identifier style and were all programmers."
+In the study, subjects were presented terms in isolation (not in blocks of code). Thus,
+as the study notes, there could be variance due to context. 
+
+* **Notes:** "The interaction of Experience with Style indicates that novices benefit
+twice as much with respect to time, with the underscore style.
+"This paper purports to remedy difficulties in an earlier paper entitled
+[To CamelCase or Under_score](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=BD104CB69764CBBB36249528028E19B7?doi=10.1.1.158.9499&rep=rep1&type=pdf),
+which concluded that with training, camelCase is more accurately processed. Finally, neither
+paper seems to have analyzed whether native language comes into play (e.g. whether it is
+easier for non-native English speakers to understand camelCase versus under_score).
+
+
 #### [Microservices - Please, don't](http://basho.com/posts/technical/microservices-please-dont/)
 
 * **Hype:** "Microservices! Microservices!"
