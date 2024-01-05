@@ -4,6 +4,6 @@
 - [ ] The resource is free.
 - [ ] The resource is rigorous because: (please list)
 - [ ] The resource is not obnoxious, condescending, etc.
-- [ ] My writup is respectful of both sides.
+- [ ] My writeup is respectful of both sides.
 - [ ] I've added reasonable caveats.
 - [ ] I've noted if the resource is a video, pdf, etc.
