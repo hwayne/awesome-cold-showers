@@ -62,7 +62,7 @@ It's great when people get excited about things, but sometimes they get a little
 
 * **Notes:**  Systems were verified with Coq and Z3. Further discussion at [The Morning Paper](https://blog.acolyer.org/2017/05/29/an-empirical-study-on-the-correctness-of-formally-verified-distributed-systems/).
 
-#### [Fixing Faults in C and Java Source Code: Abbreviated vs. Full-word Identiﬁer Names](http://www2.unibas.it/gscanniello/Giuseppe_Scanniello%40unibas/Home_files/TOSEM.pdf) (PDF)
+#### [Fixing Faults in C and Java Source Code: Abbreviated vs. Full-word Identifier Names](http://www2.unibas.it/gscanniello/Giuseppe_Scanniello%40unibas/Home_files/TOSEM.pdf) (PDF)
 
 * **Hype:** "Identifiers should be self-documenting! Use full names, not abbreviations." 
 
